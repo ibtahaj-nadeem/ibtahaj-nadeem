@@ -8,21 +8,21 @@ I specialize in **MERN stack development, modern frontend technologies, and Arti
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 MERN Stack Developer
-- 🤖 Artificial Intelligence Engineer
-- 🌐 Frontend Developer
-- 🧩 WordPress Developer
-- ⚙️ Experienced with React.js, Next.js, Node.js and Express.js
-- 🗄️ Experienced with MongoDB, PostgreSQL and vector databases
-- 🧠 Interested in AI, Machine Learning, LLMs and RAG systems
-- ☁️ Familiar with AWS, Docker, Kubernetes and CI/CD
-- 🎓 BS Computer Science graduate from COMSATS University Islamabad
+-  MERN Stack Developer
+-  Artificial Intelligence Engineer
+-  Frontend Developer
+-  WordPress Developer
+-  Experienced with React.js, Next.js, Node.js and Express.js
+-  Experienced with MongoDB, PostgreSQL and vector databases
+-  Interested in AI, Machine Learning, LLMs and RAG systems
+-  Familiar with AWS, Docker, Kubernetes and CI/CD
+-  BS Computer Science graduate from COMSATS University Islamabad
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -73,9 +73,9 @@ I specialize in **MERN stack development, modern frontend technologies, and Arti
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
-### 🤖 AI Avatar Chatbot
+###  AI Avatar Chatbot
 
 A real-time AI avatar chatbot that combines conversational AI, text-to-speech, and synchronized avatar animation for an interactive user experience.
 
@@ -83,7 +83,7 @@ A real-time AI avatar chatbot that combines conversational AI, text-to-speech, a
 
 ---
 
-### 🛒 MarketHub
+###  MarketHub
 
 A full-stack e-commerce marketplace for browsing, buying, and selling mobile phones and accessories.
 
@@ -91,7 +91,7 @@ A full-stack e-commerce marketplace for browsing, buying, and selling mobile pho
 
 ---
 
-### 🩺 PathoAssist
+###  PathoAssist
 
 An AI-powered healthcare assistance platform designed to provide intelligent, technology-driven assistance and help users understand medical information.
 
@@ -99,7 +99,7 @@ An AI-powered healthcare assistance platform designed to provide intelligent, te
 
 ---
 
-### 🌐 Portfolio
+###  Portfolio
 
 A responsive personal portfolio showcasing my development projects, technical skills, experience, and professional background.
 
@@ -107,19 +107,19 @@ A responsive personal portfolio showcasing my development projects, technical sk
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🚀 Building full-stack web applications
-- 🤖 Developing AI-powered applications
-- 🧠 Exploring Large Language Models (LLMs)
-- 🔎 Building Retrieval-Augmented Generation (RAG) systems
-- ☁️ Improving cloud and DevOps skills
-- 🏗️ Learning scalable application architecture
-- ⚡ Creating modern and high-performance user experiences
+-  Building full-stack web applications
+-  Developing AI-powered applications
+-  Exploring Large Language Models (LLMs)
+-  Building Retrieval-Augmented Generation (RAG) systems
+-  Improving cloud and DevOps skills
+-  Learning scalable application architecture
+-  Creating modern and high-performance user experiences
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtahaj-nadeem&show_icons=true&theme=github_dark)
 
@@ -127,7 +127,7 @@ A responsive personal portfolio showcasing my development projects, technical sk
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtahaj-nadeem/)
 
@@ -137,4 +137,4 @@ A responsive personal portfolio showcasing my development projects, technical sk
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+ Feel free to explore my repositories and connect with me!
